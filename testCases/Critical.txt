@@ -1,0 +1,1 @@
+2019-09-01 09:50:58,879 - 2019-09-01 09:50:58,879 - pageObjects.logger - WARNING - warning
